@@ -1,3 +1,3 @@
 # autowinupd
 
-Windows Update Automation power shell.
+Windows Update Automation PowerShell.
